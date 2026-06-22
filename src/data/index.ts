@@ -34,17 +34,17 @@ export const RESUME_URL = '/resume.pdf';
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'GitHub',
-    href: 'https://github.com/muditbhuraria', // TODO: your GitHub
+    href: 'https://github.com/muditworks-6', // TODO: your GitHub
     icon: 'github',
   },
   {
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/muditbhuraria', // TODO: your LinkedIn
+    href: 'https://www.linkedin.com/in/mudit-maheshwari-18156637a', // TODO: your LinkedIn
     icon: 'linkedin',
   },
   {
     label: 'Email',
-    href: 'mailto:mudit@example.com', // TODO: your email
+    href: 'mailto:muditworks6@gmail.com', // TODO: your email
     icon: 'mail',
   },
   {
@@ -135,7 +135,7 @@ export const PROJECTS: Project[] = [
     image: '/projects/devflow.png',
     tags: ['React', 'Node.js', 'PostgreSQL', 'WebSockets', 'Docker'],
     category: 'Full-Stack',
-    githubUrl: 'https://github.com/muditbhuraria/devflow',
+    githubUrl: 'https://github.com/muditworks-6/devflow',
     liveUrl: 'https://devflow-demo.vercel.app',
     featured: true,
   },
@@ -147,7 +147,7 @@ export const PROJECTS: Project[] = [
     image: '/projects/algoviz.png',
     tags: ['React', 'TypeScript', 'Canvas API', 'Framer Motion'],
     category: 'Tools',
-    githubUrl: 'https://github.com/muditbhuraria/algo-viz',
+    githubUrl: 'https://github.com/muditworks-6/algo-viz',
     liveUrl: 'https://algoviz.vercel.app',
     featured: true,
   },
@@ -159,7 +159,7 @@ export const PROJECTS: Project[] = [
     image: '/projects/sentimentai.png',
     tags: ['Python', 'FastAPI', 'PyTorch', 'React', 'Docker'],
     category: 'ML / AI',
-    githubUrl: 'https://github.com/muditbhuraria/sentiment-ai',
+    githubUrl: 'https://github.com/muditworks-6/sentiment-ai',
     featured: true,
   },
   {
@@ -170,7 +170,7 @@ export const PROJECTS: Project[] = [
     image: '/projects/clitoolkit.png',
     tags: ['Rust', 'CLI', 'Shell', 'Cross-platform'],
     category: 'Tools',
-    githubUrl: 'https://github.com/muditbhuraria/dev-cli',
+    githubUrl: 'https://github.com/muditworks-6/dev-cli',
   },
   {
     id: 'expensify',
@@ -180,7 +180,7 @@ export const PROJECTS: Project[] = [
     image: '/projects/expensify.png',
     tags: ['Next.js', 'TypeScript', 'IndexedDB', 'Chart.js', 'PWA'],
     category: 'Full-Stack',
-    githubUrl: 'https://github.com/muditbhuraria/expensify',
+    githubUrl: 'https://github.com/muditworks-6/expensify',
     liveUrl: 'https://expensify-app.vercel.app',
   },
   {
@@ -191,7 +191,7 @@ export const PROJECTS: Project[] = [
     image: '/projects/osscheduler.png',
     tags: ['C++', 'Algorithms', 'Systems', 'Data Structures'],
     category: 'Systems',
-    githubUrl: 'https://github.com/muditbhuraria/os-scheduler',
+    githubUrl: 'https://github.com/muditworks-6/os-scheduler',
   },
 ];
 
@@ -274,4 +274,4 @@ export const EMAILJS_CONFIG = {
 };
 
 // TODO: Replace with your real email
-export const CONTACT_EMAIL = 'mudit@example.com';
+export const CONTACT_EMAIL = 'muditworks6@gmail.com';
