@@ -3,10 +3,10 @@ import { ArrowUp, Mail } from 'lucide-react';
 import { GithubIcon, LinkedinIcon, TwitterXIcon } from './BrandIcons';
 
 const SOCIAL = [
-  { label: 'GitHub', href: 'https://github.com/muditbhuraria', icon: <GithubIcon size={18} /> }, // TODO: replace
-  { label: 'LinkedIn', href: 'https://linkedin.com/in/muditbhuraria', icon: <LinkedinIcon size={18} /> }, // TODO: replace
+  { label: 'GitHub', href: 'https://github.com/muditworks-6', icon: <GithubIcon size={18} /> }, // TODO: replace
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/mudit-maheshwari-18156637a', icon: <LinkedinIcon size={18} /> }, // TODO: replace
   { label: 'Twitter', href: 'https://twitter.com/muditbhuraria', icon: <TwitterXIcon size={18} /> }, // TODO: replace
-  { label: 'Email', href: 'mailto:mudit@example.com', icon: <Mail size={18} /> }, // TODO: replace
+  { label: 'Email', href: 'mailto:muditworks6@gmail.com', icon: <Mail size={18} /> }, // TODO: replace
 ];
 
 
