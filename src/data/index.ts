@@ -49,7 +49,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
   },
   {
     label: 'Twitter',
-    href: 'https://twitter.com/muditbhuraria', // TODO: your Twitter/X
+    href: 'https://x.com/muditworks_6', // TODO: your Twitter/X
     icon: 'twitter',
   },
 ];

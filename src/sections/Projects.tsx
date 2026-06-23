@@ -89,7 +89,7 @@ export default function Projects() {
           className="text-center mt-12"
         >
           <a
-            href="https://github.com/muditbhuraria" // TODO: replace with your GitHub
+            href="https://github.com/muditworks-6" // TODO: replace with your GitHub
             target="_blank"
             rel="noopener noreferrer"
             className="btn-secondary inline-flex"
